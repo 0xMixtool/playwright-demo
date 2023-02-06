@@ -1,0 +1,14 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "pro": "node index",
+    "dev": "",
+    "check": "node check"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.20.7",
+    "playwright": "^1.30.0"
+  }
+}
